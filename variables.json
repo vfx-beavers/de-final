@@ -1,0 +1,11 @@
+{
+    "VERTICA_HOST": "vertica.tgcloudenv.ru",
+    "VERTICA_PASSWORD": "78TraZ6MA3HtLlT",
+    "VERTICA_PORT": 5433,
+    "VERTICA_USER": "stv2023081241",
+    "pg_dbname": "db1",
+    "pg_host": "rc1b-w5d285tmxa8jimyn.mdb.yandexcloud.net",
+    "pg_pass": "de_student_112022",
+    "pg_port": 6432,
+    "pg_user": "student"
+}
